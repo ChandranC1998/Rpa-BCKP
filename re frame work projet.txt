@@ -1,0 +1,38 @@
+roi-->  how much you pay  for employee and how much save the amount by creating bot per month . we calculate difference between them.
+
+
+complexcity--> ce calculate the complexcity high or medium  or low.
+how to caluaulate complex city ?
+based on the business logic and based on automtion  like desktop
+
+roi--> pot infrastructurecost and server cost. and running cost  and licence cost
+
+
+project discovery:
+we decide the complexcity and benefit of the project in this state.
+
+
+which of  the   uipath products  can help  us in  the process discovery?
+process mining 
+task mining
+task capture
+Automation HUB
+
+7690926064
+
+2.process under standing: businesss analyst involve in this state.( pdd is must singn off in this state ,once sign off you will go ahead)
+1.Application
+2.screens
+3.Activities
+4.rules
+5.business process or business flow.
+6. exception
+how many  screen automate and activities used. the outcome document under standing is process dfinition document.(PDD).
+3. infrastructure setup:
+in this stage, we  setup the uipath and setup the orhestrator and excel and application and setup those what all need to automate purpose.
+we can setup the required application.
+*we need to install each and everything that is required to our process or automation. that is infra structure setup.
+in instrastrure setup we have 3 infrasture ,
+1. development
+2.uat
+3.production

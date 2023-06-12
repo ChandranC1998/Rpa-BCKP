@@ -1,0 +1,71 @@
+C:\Program Files\Apache Software Foundation\Tomcat 9.0_Tomcat963\webapps\EPS\WEB-INF\classes\static\app\constant
+
+
+C:\Program Files\Apache Software Foundation\Tomcat 9.0_Tomcat963\webapps\EPS\WEB-INF\classes\static\app\constant
+
+---------------------------------
+chennai:
+url constants
+// SERVER  
+var IP_ADDRESS = "http://shflchnacc02:8080";
+
+//LOCAL
+
+//var IP_ADDRESS = "http://192.168.0.175:8082";
+//var IP_ADDRESS = "http://192.168.0.122:8080";
+
+// SERVER
+var IP_ADDRESS = "http://shflchnacc02:8080";
+config-server:
+ <Connector port="8080" protocol="HTTP/1.1"
+               connectionTimeout="20000"
+               redirectPort="8443" />
+
+app-properties:
+ server.port=8082
+spring.mvc.view.prefix:/pages/
+spring.mvc.view.suffix: .jsp
+server.servlet.context-path=/eps
+----------------------------------------------------
+
+mumbai-old
+
+cfig -server
+    <Connector port="8080" protocol="HTTP/1.1"
+               connectionTimeout="20000"
+               redirectPort="8443" />
+
+app-prop:
+server.port=8080
+spring.mvc.view.prefix:/pages/
+spring.mvc.view.suffix: .jsp
+server.servlet.context-path=/eps
+
+url constant:
+//LOCAL
+
+var IP_ADDRESS = "http://192.168.100.207:8080";
+//var IP_ADDRESS = "http://192.168.0.122:8080";
+
+// SERVER
+//var IP_ADDRESS = "http://shflchnacc02:8080";
+--------------------------------------------------------------
+
+mumbai new:
+ <Connector port="9090" protocol="HTTP/1.1"
+               connectionTimeout="20000"
+               redirectPort="8443" />
+
+
+// SERVER
+var IP_ADDRESS = "http://shflmumacc02:8080";
+
+// SERVER
+var IP_ADDRESS = "http://shflmumacc02:8080";
+
+
+// SERVER
+var IP_ADDRESS = "http://shflmumacc02:8080";
+
+-----------------------------------------
+
